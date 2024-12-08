@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx ts-node ./day7/day7.ts"
+    "start": "npx ts-node ./day8/day8.ts"
   },
   "author": "",
   "license": "ISC",
